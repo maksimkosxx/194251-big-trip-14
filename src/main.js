@@ -4,7 +4,6 @@ import sort from './view/sort.js'
 
 const renderComponent = (container, template, place) => container.insertAdjacentHTML(place, template);
 
-
 const routesContainer = document.querySelector('.trip-main');
 const filterContainer = document.querySelector('.trip-controls__filters');
 const sortContainer = document.querySelector('.trip-events');

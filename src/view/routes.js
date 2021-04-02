@@ -1,7 +1,7 @@
 
 
 const routes =
-  `<ul class="trip-events__list">
+          `<ul class="trip-events__list">
             <li class="trip-events__item">
               <div class="event">
                 <time class="event__date" datetime="2019-03-18">MAR 18</time>
@@ -334,7 +334,6 @@ const routes =
                 </button>
               </div>
             </li>
-          </ul>`;
-
+          </ul>`
 export default routes;
 
